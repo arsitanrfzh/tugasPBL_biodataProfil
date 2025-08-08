@@ -46,11 +46,11 @@ Untuk melihat atau menjalankan proyek ini di komputer lokal Anda, ikuti langkah-
 
 1.  **Clone repositori ini:**
     ```bash
-    git clone [https://github.com/arsitanrfzh/nama-repositori.git](https://github.com/arsitanrfzh/nama-repositori.git)
+    git clone https://github.com/arsitanrfzh/tugasPBL_biodataProfil.git
     ```
 2.  **Masuk ke direktori proyek:**
     ```bash
-    cd nama-repositori
+    cd tugasPBL_biodataProfil
     ```
 3.  **Buka file `index.html`** di browser pilihan Anda (misalnya, dengan mengklik dua kali file tersebut).
 
